@@ -2,7 +2,23 @@
 <h3 align="center">Ethical Hacking Practitioner | Cybersecurity Enthusiast | Web & Python Developer | AI Explorer</h3>
 
 # 💫 About Me:
-Wordlists Generator WebApp<br> PhishDemo<br> Covid-19 Tracker<br>COVID19-Tracker<br>SOC Operations , Pentesting Tools ,Ethical Hacking , Cyber Security , Web Development , Python<br>TryHackMe, JetBrains Academy, Hackerrank
+- 🔭 I’m currently working on [Wordlists Generator WebApp](https://github.com/reshot2005/MoopanKeyGenerator)
+
+- 🌱 I’m currently learning **SOC Operations , Pentesting Tools ,Ethical Hacking , Cyber Security , Web Development , Python**
+
+- 👯 I’m looking to collaborate on [PhishDemo](https://github.com/reshot2005/WebsitePhisherDemo)
+
+- 🤝 I’m looking for help with [Covid-19 Tracker](https://github.com/reshot2005/COVID19-Offline-Tracker)
+
+- 👨‍💻 All of my projects are available at [https://github.com/reshot2005](https://github.com/reshot2005)
+
+- tt **react , flask , Flutter**
+
+- 📫 How to reach me **suryas.sec.official@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/reshot2005/Resume.pdf](https://github.com/reshot2005/Resume.pdf)
+
+- ⚡ Fun fact **I hack things ethically, break things safely, and fix them with coffee. ☕💻**
 
 
 ## 🌐 Socials:
