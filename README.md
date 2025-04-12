@@ -2,21 +2,26 @@
 <h3 align="center">Ethical Hacking Practitioner | Cybersecurity Enthusiast | Web & Python Developer | AI Explorer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Wordlists Generator WebApp](https://github.com/reshot2005/MoopanKeyGenerator)
 
-- 🌱 I’m currently learning **SOC Operations , Pentesting Tools ,Ethical Hacking , Cyber Security , Web Development , Python**
+- 🛠️ Currently building **MoopanKeyGenerator** – a powerful **wordlist generator** for ethical hacking & red teaming, right in your browser!
+- 📚 Deep-diving into **SOC operations**, **Pentesting tools**, **Ethical Hacking**, and all things **Cybersecurity**
+- 💻 Exploring **Web Development**, **Python scripting**, and real-world **cyber threat simulations**
+- 👯 Collaborating on **PhishDemo** – a project focused on phishing awareness & defense training
+- 🤝 Seeking help with a **COVID-19 Tracker** featuring real-time data & offline support
 
-- 👯 I’m looking to collaborate on [PhishDemo](https://github.com/reshot2005/WebsitePhisherDemo)
+## 🧰 Tech Stack I Play With
 
-- 🤝 I’m looking for help with [Covid-19 Tracker](https://github.com/reshot2005/COVID19-Offline-Tracker)
+- ⚛️ **Frontend**: HTML/CSS
+- 🐍 **Backend**: Python 
+- 📱 **Mobile**: Flutter  
+- 🔐 **Security Tools**: Nmap,Wifite, Phishing, SocialEngineering
+- 🔗 **Projects & Code**: [github.com/reshot2005](https://github.com/reshot2005)
+- 📫 **Email**: suryas.sec.official@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/reshot2005](https://github.com/reshot2005)
 
-- tt **react , flask , Flutter**
 
-- 📫 How to reach me **suryas.sec.official@gmail.com**
+> “Cybersecurity is not just a job, it’s a mindset. Stay curious, stay sharp.” 🔐✨
 
-- 📄 Know about my experiences [https://github.com/reshot2005/Resume.pdf](https://github.com/reshot2005/Resume.pdf)
 
 - ⚡ Fun fact **I hack things ethically, break things safely, and fix them with coffee. ☕💻**
 
