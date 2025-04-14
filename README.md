@@ -3,7 +3,6 @@
 
 # 💫 About Me:
 
-- 🛠️ Currently building **MoopanKeyGenerator** – a powerful **wordlist generator** for ethical hacking & red teaming, right in your browser!
 - 📚 Deep-diving into **SOC operations**, **Pentesting tools**, **Ethical Hacking**, and all things **Cybersecurity**
 - 💻 Exploring **Web Development**, **Python scripting**, and real-world **cyber threat simulations**
 - 👯 Collaborating on **PhishDemo** – a project focused on phishing awareness & defense training
