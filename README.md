@@ -22,7 +22,7 @@
 > “Cybersecurity is not just a job, it’s a mindset. Stay curious, stay sharp.” 🔐✨
 
 
-- ⚡ Fun fact **I hack things ethically, break things safely, and fix them with coffee. ☕💻**
+- ⚡ Fun fact :: **I hack things ethically, break things safely, and fix them with coffee. ☕💻**
 
 
 ## 🌐 Socials:
